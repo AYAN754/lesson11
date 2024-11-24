@@ -17,7 +17,7 @@ print("a.add")
 print("b.sub")
 print("c.mul")
 print("d.div")
-cho= input("please enter choise ,a,b,c,d")
+cho= input("please enter choise ,a,b,c,d: ")
 num1= int(input("enter number 1: "))
 num2= int(input("enter number 2: "))
 if (cho == "a"):
